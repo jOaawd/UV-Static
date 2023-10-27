@@ -1,0 +1,4 @@
+databases:
+  - name: spree
+    databaseName: spree
+    user: spree
